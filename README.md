@@ -12,6 +12,10 @@ These documents are generic and reusable - designed to give IT leaders a credibl
 |----------|----------|---------|
 | [Acceptable Use Policy](policies/acceptable-use-policy-template.md) | Policy | Defines permitted and prohibited use of organizational IT resources |
 | [Information Security Policy](policies/information-security-policy-template.md) | Policy | Overarching security policy covering responsibilities, controls, and compliance |
+| [BYOD Policy](policies/byod-policy-template.md) | Policy | Conditions and security requirements for use of personal devices for work |
+| [Email and Communication Security Policy](policies/email-and-communication-security-policy-template.md) | Policy | Secure use of email, messaging, and collaboration platforms |
+| [Network and Wi-Fi Security Policy](policies/network-and-wifi-security-policy-template.md) | Policy | Network access rules, Wi-Fi security, VPN requirements, and remote access |
+| [Patch Management Policy](policies/patch-management-policy-template.md) | Policy | Patch classification, deployment timelines, and exception management |
 | [Security Awareness Program Guide](awareness/security-awareness-program-guide.md) | Awareness | How to build and run an effective security awareness program |
 | [Incident Response Playbook](incident-response/incident-response-playbook-template.md) | Operations | Structured playbook for detecting, containing, and recovering from security incidents |
 | [Cybersecurity Maturity Self-Assessment](assessment/cybersecurity-maturity-self-assessment.md) | Assessment | Practical self-assessment for IT leaders to identify gaps and prioritize improvements |
