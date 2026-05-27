@@ -154,11 +154,16 @@ This is not an exhaustive list - prioritize based on your threat landscape asses
 - What to do when you suspect a phishing attempt (report, do not click)
 - Why social engineering works and how attackers build pretexts
 - Business email compromise - what it looks like and why it is effective
+- QR code phishing (quishing) - attackers embed malicious URLs in QR codes sent by email or placed physically, bypassing email link-scanning filters; employees should treat unexpected QR codes with the same skepticism as links
+- Telephone-oriented attack delivery (TOAD) - emails instruct the recipient to call a phone number rather than click a link; the call connects to a fraudster who completes the social engineering by voice; the pattern is often disguised as a subscription renewal, support alert, or security notification
+- AI-generated spear phishing - AI tools allow attackers to craft highly personalized emails at scale using publicly available information about the target; messages may reference real colleagues, projects, or recent events and no longer carry the spelling and grammar errors that traditionally signaled phishing
+- Deepfake voice and video impersonation - attackers use AI-generated audio or video to impersonate executives or colleagues in calls and video meetings; any unexpected request for urgent financial action or credential sharing should be verified through a separate, trusted channel regardless of how legitimate the caller appears
 
 ### Password and authentication security
 - Why password reuse is dangerous
 - How to use a password manager effectively
 - What multi-factor authentication protects against and why it matters
+- MFA fatigue (push bombing) - attackers who have obtained a password will repeatedly send MFA push notifications hoping the employee approves one out of frustration or confusion; employees should never approve an MFA request they did not initiate and should report unexpected MFA prompts immediately
 - How to respond if you suspect an account has been compromised
 
 ### Physical security
